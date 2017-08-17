@@ -65,7 +65,7 @@ package
 		
 		private function mouseDownHandler(event:MouseEvent):void {
 			_ex = new RichWebView(stage);
-			_ex.openWebViewURL(0, 0, stage.stageWidth, stage.stageHeight, "https://cnpro1.rosettastone.cn/");
+			_ex.openWebViewURL(0, 0, stage.stageWidth, stage.stageHeight, "https://google.com/");
 			/*browser = new StageWebView();
 			browser.stage = this.stage;
 			browser.viewPort = new Rectangle( 0, 70, stage.stageWidth, stage.stageHeight);

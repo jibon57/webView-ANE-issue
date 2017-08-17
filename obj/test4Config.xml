@@ -30,15 +30,16 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>D:\Others\builder\test4\src</path-element>
+      <path-element>D:\Others\Documents\GitHub\webView-ANE-issue\src</path-element>
       <path-element>C:\Program Files (x86)\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <external-library-path append="true">
-      <path-element>D:\Others\builder\test4\lib\richWebView.ane</path-element>
+      <path-element>D:\Others\Documents\GitHub\webView-ANE-issue\lib\richWebView.ane</path-element>
+      <path-element>D:\Others\Documents\GitHub\webView-ANE-issue\lib\overrideAir.ane</path-element>
     </external-library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\Others\builder\test4\src\Main.as</path-element>
+    <path-element>D:\Others\Documents\GitHub\webView-ANE-issue\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>

@@ -107,5 +107,6 @@
 	-->
 	<extensions>
 		<extensionID>com.myflashlab.air.extensions.webView</extensionID>
+		<extensionID>com.myflashlab.air.extensions.dependency.overrideAir</extensionID>
     </extensions>
 </application>

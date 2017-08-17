@@ -58,6 +58,7 @@
   <!-- External Libraries -->
   <externalLibraryPaths>
     <element path="lib\richWebView.ane" />
+    <element path="lib\overrideAir.ane" />
   </externalLibraryPaths>
   <!-- Runtime Shared Libraries -->
   <rslPaths>
